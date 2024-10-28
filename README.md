@@ -1,4 +1,4 @@
-# LSTM AND AUTOREGRESSIVE TIME SERIES FORECASTING OF SENTIMENTS AT DAY 1,3 AND 7 GOING FOWARD
+# LSTM AND AUTOREGRESSIVE TIME SERIES FORECASTING OF TWITTER SENTIMENTS AT DAY 1,3 AND 7 GOING FOWARD
 
 This project focuses on building a comprehensive sentiment forecasting pipeline for tweets using LSTM and autoregressive (AR) models, incorporating big data processing, storage, and sentiment analysis. Key processes include data collection, storage, sentiment extraction, vectorization, database benchmarking, and model training.
 
