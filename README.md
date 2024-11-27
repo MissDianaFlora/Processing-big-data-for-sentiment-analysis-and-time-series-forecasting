@@ -1,4 +1,4 @@
-# Project Title: Sentiment Forecasting in Tweets Using Long Short-Term Memory Model with MongoDB for Big Data Storage and Processing
+# Project Title: Sentiment Forecasting of Tweets Using Long Short-Term Memory Model with MongoDB for Big Data Storage and Processing
 
 ## Overview
 The "Sentiment Forecasting in Tweets" project aims to utilize advanced machine learning techniques, specifically Long Short-Term Memory (LSTM) neural networks, to accurately predict sentiment trends in social media tweets. This predictive model will be supported by MongoDB, a robust NoSQL database, serving as the primary technology for big data storage and processing. The project addresses the growing need for real-time sentiment analysis in various sectors, enabling stakeholders to make informed decisions based on public sentiment, optimize marketing strategies, and enhance customer engagement.
